@@ -1,2 +1,2 @@
-for i in range(31):
+for i in range(1,31):
     print("s240" + str(i))
