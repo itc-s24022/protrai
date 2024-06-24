@@ -1,3 +1,5 @@
+#s24022
+#現在時間を表示
 import datetime
 import tkinter as tk
 
