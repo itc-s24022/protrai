@@ -11,7 +11,7 @@ root = tk.Tk()
 root.title("現在の時刻")
 
 lbl = tk.Label()
-lbl.config(text="",font="Helvetica")
+lbl.config(text="",font=("Helvetica",20))
 lbl.pack()
 
 upload_time()
